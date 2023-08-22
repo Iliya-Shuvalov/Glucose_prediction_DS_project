@@ -35,3 +35,7 @@ glucose level (mmol/l.) - column 'glucose_level' and volume of injected insulin 
 ### Метрики
 
 `mean_absolute_error`
+
+## Контакты
+
+i.a.shuvalov@yandex.ru
